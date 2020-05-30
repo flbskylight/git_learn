@@ -4,3 +4,4 @@ new add A
 Fix B
 Feature C
 modify A
+new modify A
