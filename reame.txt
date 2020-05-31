@@ -3,3 +3,4 @@ feature A
 new add A
 Fix B
 Feature C
+add number 2
